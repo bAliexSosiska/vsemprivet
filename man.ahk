@@ -1,9 +1,9 @@
-﻿^6::
+﻿^6:: ; залупа сука
 
 updatefile:="update.ini"
 update:="https://raw.githubusercontent.com/bAliexSosiska/vsemprivet/master/update.ini"
-download:="ссылка на файл который обновляем"
-filename:="имя файла который обновляем"
+download:="https://raw.githubusercontent.com/bAliexSosiska/vsemprivet/master/man.ahk"
+filename:="man.ahk"
 update()
 
 filedelete()
