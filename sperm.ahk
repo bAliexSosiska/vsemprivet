@@ -1,4 +1,4 @@
-﻿filename:= man.ahk
+﻿filename:= sperm.ahk
 filedelete()
 {
 FileDelete %a_temp%/%filename%
@@ -18,4 +18,4 @@ if (script_version < last_version)
 }
 }
 
-F2::reload
+F2::reload ; ya togo rot ebal
