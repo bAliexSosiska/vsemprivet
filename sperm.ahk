@@ -3,7 +3,7 @@ filedelete()
 {
 FileDelete %a_temp%/%filename%
 }
-url_script := "https://github.com/bAliexSosiska/vsemprivet/raw/master/man.ahk" 
+url_script := "https://github.com/bAliexSosiska/vsemprivet/raw/master/sperm.ahk" 
 url_version := "https://github.com/bAliexSosiska/vsemprivet/raw/master/update.ini" 
 script_version := 1
 last_version := (url_version)
