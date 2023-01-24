@@ -1,8 +1,8 @@
-﻿^6:: ; залупа сука
-
+﻿^6::
+uldupd := 2
 updatefile:="update.ini"
-update:="https://raw.githubusercontent.com/bAliexSosiska/vsemprivet/master/update.ini"
-download:="https://raw.githubusercontent.com/bAliexSosiska/vsemprivet/master/man.ahk"
+update:="https://github.com/bAliexSosiska/vsemprivet/raw/master/update.ini"
+download:="https://github.com/bAliexSosiska/vsemprivet/raw/master/man.ahk"
 filename:="man.ahk"
 update()
 
@@ -29,3 +29,5 @@ IniRead, newupd, %a_temp%/%updatefile% ,version,build
 	   }	
 }
 }
+
+msgbox, ХУЙ ;; надо мне
